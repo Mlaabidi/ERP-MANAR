@@ -31,3 +31,12 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+
+# PM2 / logs
+.pm2/
+logs/
+*.log
+
+# backups
+*.tar.gz
+*.zip
